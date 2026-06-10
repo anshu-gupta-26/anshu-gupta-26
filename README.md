@@ -10,8 +10,8 @@ Building modern web applications, intelligent systems, and real-world technology
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anshu-gupta.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anshu5151)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anshu-gupta-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/anshu-gupta-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/Anshu-gupta-26)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshu.g06112003@gmail.com)
 
@@ -157,8 +157,8 @@ Deen Dayal Upadhyaya Gorakhpur University
 
 | Platform     | Link                                                          |
 | ------------ | ------------------------------------------------------------- |
-| 🌐 Portfolio | https://anshu-gupta.vercel.app                                |
-| 💼 LinkedIn  | https://www.linkedin.com/in/anshu5151                         |
+| 🌐 Portfolio | https://anshu-gupta-portfolio.vercel.app                      |
+| 💼 LinkedIn  | https://www.linkedin.com/in/anshu-gupta-dev                   |
 | 🐙 GitHub    | https://github.com/Anshu-gupta-26                             |
 | 📧 Email     | [anshu.g06112003@gmail.com](mailto:anshu.g06112003@gmail.com) |
 
